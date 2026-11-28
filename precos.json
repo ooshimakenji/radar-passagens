@@ -1,0 +1,2535 @@
+{
+ "gerado_em": "2026-11-28T17:59:55.390970+00:00",
+ "setups": [
+  {
+   "nome": "Japão, com parada na China ou Coreia",
+   "origem": "SAO",
+   "destino": "JP",
+   "gatilho": {
+    "teto_brl": 7500,
+    "pct_abaixo_mediana": 15
+   },
+   "ofertas": [
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-22",
+     "volta": "2027-02-01",
+     "preco": 7212,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": true,
+     "motivo": "abaixo do teto de R$ 7500",
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Frankfurt Airport",
+       "cidade": "Frankfurt am Main"
+      },
+      {
+       "duracao_min": 90,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "DE",
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-19",
+     "volta": "2027-01-29",
+     "preco": 8402,
+     "cia": "ITA and ANA",
+     "paradas": 2,
+     "duracao_min": 1980,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjkoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 185,
+       "aeroporto": "Leonardo da Vinci International Airport",
+       "cidade": "Rome"
+      },
+      {
+       "duracao_min": 205,
+       "aeroporto": "Haneda Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "IT",
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-22",
+     "volta": "2027-02-06",
+     "preco": 8593,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDYoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Frankfurt Airport",
+       "cidade": "Frankfurt am Main"
+      },
+      {
+       "duracao_min": 90,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "DE",
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-25",
+     "volta": "2027-02-04",
+     "preco": 8593,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjUoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDQoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Frankfurt Airport",
+       "cidade": "Frankfurt am Main"
+      },
+      {
+       "duracao_min": 90,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "DE",
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-19",
+     "volta": "2027-02-08",
+     "preco": 8596,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDgoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 310,
+       "aeroporto": "Los Angeles International Airport",
+       "cidade": "Los Angeles"
+      },
+      {
+       "duracao_min": 115,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-22",
+     "volta": "2027-02-01",
+     "preco": 8623,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDSEtHGhwSCjIwMjctMDItMDEoAmoFEgNIS0dyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "stopover": {
+      "preco": 8623,
+      "hub": "HKG",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → HKG (3d) → NGO → HKG → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-HKG",
+        "ida": "2027-01-22",
+        "volta": "2027-02-01",
+        "preco": 7048,
+        "cia": "United",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDSEtHGhwSCjIwMjctMDItMDEoAmoFEgNIS0dyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "HKG-NGO",
+        "ida": "2027-01-25",
+        "volta": "2027-01-29",
+        "preco": 1575,
+        "cia": "Hong Kong Express",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjUoAmoFEgNIS0dyBRIDTkdPGhwSCjIwMjctMDEtMjkoAmoFEgNOR09yBRIDSEtHQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 7212,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-28",
+     "volta": "2027-02-17",
+     "preco": 8678,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjgoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMTcoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Frankfurt Airport",
+       "cidade": "Frankfurt am Main"
+      },
+      {
+       "duracao_min": 90,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "DE",
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-31",
+     "volta": "2027-02-10",
+     "preco": 8678,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMzEoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMTAoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Frankfurt Airport",
+       "cidade": "Frankfurt am Main"
+      },
+      {
+       "duracao_min": 90,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "DE",
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "ICN",
+     "ida": "2027-01-22",
+     "volta": "2027-02-01",
+     "preco": 8712,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "stopover": {
+      "preco": 8712,
+      "hub": "NGO",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → NGO (3d) → ICN → NGO → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-NGO",
+        "ida": "2027-01-22",
+        "volta": "2027-02-01",
+        "preco": 7212,
+        "cia": "LATAM and JAL",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "NGO-ICN",
+        "ida": "2027-01-25",
+        "volta": "2027-01-29",
+        "preco": 1500,
+        "cia": "Jin Air",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjUoAmoFEgNOR09yBRIDSUNOGhwSCjIwMjctMDEtMjkoAmoFEgNJQ05yBRIDTkdPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 7212,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-28",
+     "volta": "2027-02-07",
+     "preco": 8844,
+     "cia": "KLM and China Airlines",
+     "paradas": 2,
+     "duracao_min": 1995,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjgoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDcoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 315,
+       "aeroporto": "Amsterdam Airport Schiphol",
+       "cidade": "Amsterdam"
+      },
+      {
+       "duracao_min": 85,
+       "aeroporto": "Taiwan Taoyuan International Airport",
+       "cidade": "Taipei City"
+      }
+     ],
+     "paises_escala": [
+      "NL",
+      "TW"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-19",
+     "volta": "2027-02-03",
+     "preco": 8872,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 2080,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDItMDMoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 350,
+       "aeroporto": "Los Angeles International Airport",
+       "cidade": "Los Angeles"
+      },
+      {
+       "duracao_min": 105,
+       "aeroporto": "Haneda Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "HKG",
+     "ida": "2027-01-22",
+     "volta": "2027-02-01",
+     "preco": 9185,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "stopover": {
+      "preco": 9185,
+      "hub": "NGO",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → NGO (3d) → HKG → NGO → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-NGO",
+        "ida": "2027-01-22",
+        "volta": "2027-02-01",
+        "preco": 7212,
+        "cia": "LATAM and JAL",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "NGO-HKG",
+        "ida": "2027-01-25",
+        "volta": "2027-01-29",
+        "preco": 1973,
+        "cia": "Hong Kong Express",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjUoAmoFEgNOR09yBRIDSEtHGhwSCjIwMjctMDEtMjkoAmoFEgNIS0dyBRIDTkdPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 7212,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-31",
+     "volta": "2027-02-15",
+     "preco": 9229,
+     "cia": "KLM and Korean Air",
+     "paradas": 2,
+     "duracao_min": 2141,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMzEoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMTUoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 520,
+       "aeroporto": "Amsterdam Airport Schiphol",
+       "cidade": "Amsterdam"
+      },
+      {
+       "duracao_min": 115,
+       "aeroporto": "Incheon International Airport",
+       "cidade": "Seoul"
+      }
+     ],
+     "paises_escala": [
+      "NL",
+      "KR"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": {
+      "duracao_min": 520,
+      "aeroporto": "Amsterdam Airport Schiphol",
+      "cidade": "Amsterdam"
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-31",
+     "volta": "2027-02-15",
+     "preco": 9295,
+     "cia": "Air France and JAL",
+     "paradas": 2,
+     "duracao_min": 3025,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMzEoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDItMTUoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 630,
+       "aeroporto": "Aéroport de Paris-Charles de Gaulle",
+       "cidade": "Paris"
+      },
+      {
+       "duracao_min": 725,
+       "aeroporto": "Haneda Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [
+      "Paris"
+     ],
+     "escala_longa": {
+      "duracao_min": 725,
+      "aeroporto": "Haneda Airport",
+      "cidade": "Tokyo"
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-28",
+     "volta": "2027-02-12",
+     "preco": 9315,
+     "cia": "KLM and China Airlines",
+     "paradas": 2,
+     "duracao_min": 1995,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjgoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMTIoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 315,
+       "aeroporto": "Amsterdam Airport Schiphol",
+       "cidade": "Amsterdam"
+      },
+      {
+       "duracao_min": 85,
+       "aeroporto": "Taiwan Taoyuan International Airport",
+       "cidade": "Taipei City"
+      }
+     ],
+     "paises_escala": [
+      "NL",
+      "TW"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-16",
+     "volta": "2027-01-31",
+     "preco": 9491,
+     "cia": "American and Jetstar",
+     "paradas": 2,
+     "duracao_min": 2145,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTYoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMzEoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": true,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 195,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-13",
+     "volta": "2027-01-23",
+     "preco": 9498,
+     "cia": "American and Jetstar",
+     "paradas": 2,
+     "duracao_min": 2160,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTMoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjMoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 210,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-13",
+     "volta": "2027-01-28",
+     "preco": 9498,
+     "cia": "American and Jetstar",
+     "paradas": 2,
+     "duracao_min": 2160,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTMoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjgoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 210,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-16",
+     "volta": "2027-01-26",
+     "preco": 9498,
+     "cia": "American and Jetstar",
+     "paradas": 2,
+     "duracao_min": 2145,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTYoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjYoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 195,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-22",
+     "volta": "2027-02-01",
+     "preco": 9498,
+     "cia": "American and Jetstar",
+     "paradas": 2,
+     "duracao_min": 2160,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDItMDEoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 210,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-22",
+     "volta": "2027-02-06",
+     "preco": 9498,
+     "cia": "American and Jetstar",
+     "paradas": 2,
+     "duracao_min": 2160,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDItMDYoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 210,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-28",
+     "volta": "2027-02-07",
+     "preco": 9498,
+     "cia": "American and Jetstar",
+     "paradas": 2,
+     "duracao_min": 2160,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjgoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDItMDcoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 210,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-31",
+     "volta": "2027-02-10",
+     "preco": 9498,
+     "cia": "American and Jetstar",
+     "paradas": 2,
+     "duracao_min": 2160,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMzEoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDItMTAoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 210,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-28",
+     "volta": "2027-02-12",
+     "preco": 9499,
+     "cia": "American and Jetstar",
+     "paradas": 2,
+     "duracao_min": 2160,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjgoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDItMTIoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 210,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-16",
+     "volta": "2027-01-31",
+     "preco": 9510,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 1995,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTYoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMzEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": true,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 185,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-16",
+     "volta": "2027-01-26",
+     "preco": 9510,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 1995,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTYoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMjYoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 185,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-16",
+     "volta": "2027-02-05",
+     "preco": 9510,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 1995,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTYoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDUoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 185,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-19",
+     "volta": "2027-01-29",
+     "preco": 9510,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 2945,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMjkoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 455,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      }
+     ],
+     "paises_escala": [
+      "US"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-25",
+     "volta": "2027-02-09",
+     "preco": 9510,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 1995,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjUoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDkoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 185,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-19",
+     "volta": "2027-02-03",
+     "preco": 9515,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 2065,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDMoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 340,
+       "aeroporto": "John F. Kennedy International Airport",
+       "cidade": "New York"
+      },
+      {
+       "duracao_min": 205,
+       "aeroporto": "Haneda Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-25",
+     "volta": "2027-02-14",
+     "preco": 9515,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 1995,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjUoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMTQoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 185,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-13",
+     "volta": "2027-01-28",
+     "preco": 9526,
+     "cia": "American and Korean Air",
+     "paradas": 2,
+     "duracao_min": 2045,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTMoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMjgoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 290,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 125,
+       "aeroporto": "Incheon International Airport",
+       "cidade": "Seoul"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "KR"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-13",
+     "volta": "2027-01-23",
+     "preco": 9553,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 2090,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTMoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMjMoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 285,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      }
+     ],
+     "paises_escala": [
+      "US"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-19",
+     "volta": "2027-01-29",
+     "preco": 9723,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDSUNOGhwSCjIwMjctMDEtMjkoAmoFEgNJQ05yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "stopover": {
+      "preco": 9723,
+      "hub": "ICN",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → ICN (3d) → OKA → ICN → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-ICN",
+        "ida": "2027-01-19",
+        "volta": "2027-01-29",
+        "preco": 7799,
+        "cia": "Ethiopian",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDSUNOGhwSCjIwMjctMDEtMjkoAmoFEgNJQ05yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "ICN-OKA",
+        "ida": "2027-01-22",
+        "volta": "2027-01-26",
+        "preco": 1924,
+        "cia": "Jeju Air",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNJQ05yBRIDT0tBGhwSCjIwMjctMDEtMjYoAmoFEgNPS0FyBRIDSUNOQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 8402,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "HKG",
+     "ida": "2027-01-19",
+     "volta": "2027-01-29",
+     "preco": 9747,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjkoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "stopover": {
+      "preco": 9747,
+      "hub": "OKA",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → OKA (3d) → HKG → OKA → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-OKA",
+        "ida": "2027-01-19",
+        "volta": "2027-01-29",
+        "preco": 8402,
+        "cia": "ITA and ANA",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjkoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "OKA-HKG",
+        "ida": "2027-01-22",
+        "volta": "2027-01-26",
+        "preco": 1345,
+        "cia": "Hong Kong Express",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNPS0FyBRIDSEtHGhwSCjIwMjctMDEtMjYoAmoFEgNIS0dyBRIDT0tBQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 8402,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-31",
+     "volta": "2027-02-20",
+     "preco": 9758,
+     "cia": "United and ANA",
+     "paradas": 2,
+     "duracao_min": 1945,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMzEoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMjAoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 300,
+       "aeroporto": "George Bush Intercontinental Airport",
+       "cidade": "Houston"
+      },
+      {
+       "duracao_min": 115,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-22",
+     "volta": "2027-02-11",
+     "preco": 9761,
+     "cia": "United and ANA",
+     "paradas": 2,
+     "duracao_min": 1990,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMTEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 325,
+       "aeroporto": "Chicago O'Hare International Airport",
+       "cidade": "Chicago"
+      },
+      {
+       "duracao_min": 130,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "ICN",
+     "ida": "2027-01-19",
+     "volta": "2027-01-29",
+     "preco": 10122,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjkoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "stopover": {
+      "preco": 10122,
+      "hub": "OKA",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → OKA (3d) → ICN → OKA → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-OKA",
+        "ida": "2027-01-19",
+        "volta": "2027-01-29",
+        "preco": 8402,
+        "cia": "ITA and ANA",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjkoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "OKA-ICN",
+        "ida": "2027-01-22",
+        "volta": "2027-01-26",
+        "preco": 1720,
+        "cia": "Trinity Airways",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNPS0FyBRIDSUNOGhwSCjIwMjctMDEtMjYoAmoFEgNJQ05yBRIDT0tBQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 8402,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-22",
+     "volta": "2027-02-01",
+     "preco": 10349,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDSUNOGhwSCjIwMjctMDItMDEoAmoFEgNJQ05yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "stopover": {
+      "preco": 10349,
+      "hub": "ICN",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → ICN (3d) → NGO → ICN → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-ICN",
+        "ida": "2027-01-22",
+        "volta": "2027-02-01",
+        "preco": 8619,
+        "cia": "Ethiopian",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDSUNOGhwSCjIwMjctMDItMDEoAmoFEgNJQ05yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "ICN-NGO",
+        "ida": "2027-01-25",
+        "volta": "2027-01-29",
+        "preco": 1730,
+        "cia": "Jin Air",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjUoAmoFEgNJQ05yBRIDTkdPGhwSCjIwMjctMDEtMjkoAmoFEgNOR09yBRIDSUNOQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 7212,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "PVG",
+     "ida": "2027-01-22",
+     "volta": "2027-02-01",
+     "preco": 10610,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "stopover": {
+      "preco": 10610,
+      "hub": "NGO",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → NGO (3d) → PVG → NGO → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-NGO",
+        "ida": "2027-01-22",
+        "volta": "2027-02-01",
+        "preco": 7212,
+        "cia": "LATAM and JAL",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "NGO-PVG",
+        "ida": "2027-01-25",
+        "volta": "2027-01-29",
+        "preco": 3398,
+        "cia": "Korean Air",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjUoAmoFEgNOR09yBRIDUFZHGhwSCjIwMjctMDEtMjkoAmoFEgNQVkdyBRIDTkdPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 7212,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "PEK",
+     "ida": "2027-01-22",
+     "volta": "2027-02-01",
+     "preco": 10610,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "stopover": {
+      "preco": 10610,
+      "hub": "NGO",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → NGO (3d) → PEK → NGO → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-NGO",
+        "ida": "2027-01-22",
+        "volta": "2027-02-01",
+        "preco": 7212,
+        "cia": "LATAM and JAL",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "NGO-PEK",
+        "ida": "2027-01-25",
+        "volta": "2027-01-29",
+        "preco": 3398,
+        "cia": "Korean Air",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjUoAmoFEgNOR09yBRIDUEVLGhwSCjIwMjctMDEtMjkoAmoFEgNQRUtyBRIDTkdPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 7212,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-13",
+     "volta": "2027-02-02",
+     "preco": 10623,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 2065,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTMoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDItMDIoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 185,
+       "aeroporto": "John F. Kennedy International Airport",
+       "cidade": "New York"
+      },
+      {
+       "duracao_min": 345,
+       "aeroporto": "Haneda Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-10",
+     "volta": "2027-01-20",
+     "preco": 10626,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTAoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMjAoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 310,
+       "aeroporto": "Los Angeles International Airport",
+       "cidade": "Los Angeles"
+      },
+      {
+       "duracao_min": 115,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-10",
+     "volta": "2027-01-25",
+     "preco": 10626,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTAoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMjUoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 310,
+       "aeroporto": "Los Angeles International Airport",
+       "cidade": "Los Angeles"
+      },
+      {
+       "duracao_min": 115,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-04",
+     "volta": "2027-01-19",
+     "preco": 10707,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDQoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMTkoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Frankfurt Airport",
+       "cidade": "Frankfurt am Main"
+      },
+      {
+       "duracao_min": 90,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "DE",
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-07",
+     "volta": "2027-01-17",
+     "preco": 10707,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDcoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMTcoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Frankfurt Airport",
+       "cidade": "Frankfurt am Main"
+      },
+      {
+       "duracao_min": 90,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "DE",
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-07",
+     "volta": "2027-01-22",
+     "preco": 10707,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDcoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMjIoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Frankfurt Airport",
+       "cidade": "Frankfurt am Main"
+      },
+      {
+       "duracao_min": 90,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "DE",
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-07",
+     "volta": "2027-01-27",
+     "preco": 11207,
+     "cia": "KLM and China Airlines",
+     "paradas": 2,
+     "duracao_min": 1995,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDcoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMjcoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 315,
+       "aeroporto": "Amsterdam Airport Schiphol",
+       "cidade": "Amsterdam"
+      },
+      {
+       "duracao_min": 85,
+       "aeroporto": "Taiwan Taoyuan International Airport",
+       "cidade": "Taipei City"
+      }
+     ],
+     "paises_escala": [
+      "NL",
+      "TW"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-10",
+     "volta": "2027-01-30",
+     "preco": 11346,
+     "cia": "United and ANA",
+     "paradas": 2,
+     "duracao_min": 2040,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTAoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMzAoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 350,
+       "aeroporto": "Dulles International Airport",
+       "cidade": "Washington"
+      },
+      {
+       "duracao_min": 155,
+       "aeroporto": "Haneda Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-07",
+     "volta": "2027-01-17",
+     "preco": 11366,
+     "cia": "KLM and China Airlines",
+     "paradas": 2,
+     "duracao_min": 1975,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDcoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMTcoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 315,
+       "aeroporto": "Amsterdam Airport Schiphol",
+       "cidade": "Amsterdam"
+      },
+      {
+       "duracao_min": 115,
+       "aeroporto": "Taiwan Taoyuan International Airport",
+       "cidade": "Taipei City"
+      }
+     ],
+     "paises_escala": [
+      "NL",
+      "TW"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "PVG",
+     "ida": "2027-01-19",
+     "volta": "2027-01-29",
+     "preco": 11369,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjkoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "stopover": {
+      "preco": 11369,
+      "hub": "OKA",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → OKA (3d) → PVG → OKA → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-OKA",
+        "ida": "2027-01-19",
+        "volta": "2027-01-29",
+        "preco": 8402,
+        "cia": "ITA and ANA",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjkoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "OKA-PVG",
+        "ida": "2027-01-22",
+        "volta": "2027-01-26",
+        "preco": 2967,
+        "cia": "EVA Air",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNPS0FyBRIDUFZHGhwSCjIwMjctMDEtMjYoAmoFEgNQVkdyBRIDT0tBQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 8402,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-10",
+     "volta": "2027-01-20",
+     "preco": 11722,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 2015,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTAoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjAoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 110,
+       "aeroporto": "Haneda Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-10",
+     "volta": "2027-01-25",
+     "preco": 11722,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 2015,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTAoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjUoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 110,
+       "aeroporto": "Haneda Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-04",
+     "volta": "2027-01-24",
+     "preco": 12001,
+     "cia": "LATAM and JAL",
+     "paradas": 2,
+     "duracao_min": 1940,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDQoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMjQoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Frankfurt Airport",
+       "cidade": "Frankfurt am Main"
+      },
+      {
+       "duracao_min": 90,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "DE",
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "PEK",
+     "ida": "2027-01-19",
+     "volta": "2027-01-29",
+     "preco": 12029,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjkoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "stopover": {
+      "preco": 12029,
+      "hub": "OKA",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → OKA (3d) → PEK → OKA → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-OKA",
+        "ida": "2027-01-19",
+        "volta": "2027-01-29",
+        "preco": 8402,
+        "cia": "ITA and ANA",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjkoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "OKA-PEK",
+        "ida": "2027-01-22",
+        "volta": "2027-01-26",
+        "preco": 3627,
+        "cia": "EVA Air",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNPS0FyBRIDUEVLGhwSCjIwMjctMDEtMjYoAmoFEgNQRUtyBRIDT0tBQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 8402,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-22",
+     "volta": "2027-02-01",
+     "preco": 12080,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDUEVLGhwSCjIwMjctMDItMDEoAmoFEgNQRUtyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "stopover": {
+      "preco": 12080,
+      "hub": "PEK",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → PEK (3d) → NGO → PEK → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-PEK",
+        "ida": "2027-01-22",
+        "volta": "2027-02-01",
+        "preco": 10177,
+        "cia": "LATAM and Air China",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDUEVLGhwSCjIwMjctMDItMDEoAmoFEgNQRUtyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "PEK-NGO",
+        "ida": "2027-01-25",
+        "volta": "2027-01-29",
+        "preco": 1903,
+        "cia": "Korean Air",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjUoAmoFEgNQRUtyBRIDTkdPGhwSCjIwMjctMDEtMjkoAmoFEgNOR09yBRIDUEVLQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 7212,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-04",
+     "volta": "2027-01-14",
+     "preco": 12589,
+     "cia": "Qatar Airways and JAL",
+     "paradas": 2,
+     "duracao_min": 2125,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDQoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMTQoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 260,
+       "aeroporto": "Hamad International Airport",
+       "cidade": "Doha"
+      },
+      {
+       "duracao_min": 400,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "QA",
+      "JP"
+     ],
+     "exige_visto": [],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-07",
+     "volta": "2027-01-22",
+     "preco": 12787,
+     "cia": "American and JAL",
+     "paradas": 2,
+     "duracao_min": 2015,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDcoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMjIoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 110,
+       "aeroporto": "Haneda Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-19",
+     "volta": "2027-01-29",
+     "preco": 12842,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDSEtHGhwSCjIwMjctMDEtMjkoAmoFEgNIS0dyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "stopover": {
+      "preco": 12842,
+      "hub": "HKG",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → HKG (3d) → OKA → HKG → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-HKG",
+        "ida": "2027-01-19",
+        "volta": "2027-01-29",
+        "preco": 11794,
+        "cia": "Qatar Airways",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDSEtHGhwSCjIwMjctMDEtMjkoAmoFEgNIS0dyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "HKG-OKA",
+        "ida": "2027-01-22",
+        "volta": "2027-01-26",
+        "preco": 1048,
+        "cia": "Hong Kong Express",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNIS0dyBRIDT0tBGhwSCjIwMjctMDEtMjYoAmoFEgNPS0FyBRIDSEtHQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 8402,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-19",
+     "volta": "2027-01-29",
+     "preco": 13077,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDUEVLGhwSCjIwMjctMDEtMjkoAmoFEgNQRUtyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "stopover": {
+      "preco": 13077,
+      "hub": "PEK",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → PEK (3d) → OKA → PEK → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-PEK",
+        "ida": "2027-01-19",
+        "volta": "2027-01-29",
+        "preco": 9939,
+        "cia": "LATAM and Air China",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDUEVLGhwSCjIwMjctMDEtMjkoAmoFEgNQRUtyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "PEK-OKA",
+        "ida": "2027-01-22",
+        "volta": "2027-01-26",
+        "preco": 3138,
+        "cia": "Cathay Pacific and Hong Kong Express",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNQRUtyBRIDT0tBGhwSCjIwMjctMDEtMjYoAmoFEgNPS0FyBRIDUEVLQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 8402,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-04",
+     "volta": "2027-01-19",
+     "preco": 14164,
+     "cia": "Air France and JAL",
+     "paradas": 2,
+     "duracao_min": 1950,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDQoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMTkoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 110,
+       "aeroporto": "Aéroport de Paris-Charles de Gaulle",
+       "cidade": "Paris"
+      }
+     ],
+     "paises_escala": [],
+     "exige_visto": [],
+     "escalas_sem_pais": [
+      "Paris"
+     ],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-22",
+     "volta": "2027-02-01",
+     "preco": 14369,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDUFZHGhwSCjIwMjctMDItMDEoAmoFEgNQVkdyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "stopover": {
+      "preco": 14369,
+      "hub": "PVG",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → PVG (3d) → NGO → PVG → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-PVG",
+        "ida": "2027-01-22",
+        "volta": "2027-02-01",
+        "preco": 12466,
+        "cia": "Air Canada",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNTQU9yBRIDUFZHGhwSCjIwMjctMDItMDEoAmoFEgNQVkdyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "PVG-NGO",
+        "ida": "2027-01-25",
+        "volta": "2027-01-29",
+        "preco": 1903,
+        "cia": "Korean Air",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjUoAmoFEgNQVkdyBRIDTkdPGhwSCjIwMjctMDEtMjkoAmoFEgNOR09yBRIDUFZHQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 7212,
+      "dois_bilhetes": true
+     }
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-01",
+     "volta": "2027-01-11",
+     "preco": 14400,
+     "cia": "United, ANA and Solaseed Air",
+     "paradas": 2,
+     "duracao_min": 2135,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDEoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMTEoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Dulles International Airport",
+       "cidade": "Washington"
+      },
+      {
+       "duracao_min": 200,
+       "aeroporto": "Haneda Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-01",
+     "volta": "2027-01-16",
+     "preco": 14400,
+     "cia": "United and ANA",
+     "paradas": 2,
+     "duracao_min": 2210,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDEoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMTYoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 280,
+       "aeroporto": "Dulles International Airport",
+       "cidade": "Washington"
+      },
+      {
+       "duracao_min": 275,
+       "aeroporto": "Haneda Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-01",
+     "volta": "2027-01-11",
+     "preco": 14409,
+     "cia": "United and ANA",
+     "paradas": 2,
+     "duracao_min": 1945,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDEoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMTEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 300,
+       "aeroporto": "George Bush Intercontinental Airport",
+       "cidade": "Houston"
+      },
+      {
+       "duracao_min": 115,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-01",
+     "volta": "2027-01-16",
+     "preco": 14409,
+     "cia": "United and ANA",
+     "paradas": 2,
+     "duracao_min": 1990,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDEoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMTYoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 325,
+       "aeroporto": "Chicago O'Hare International Airport",
+       "cidade": "Chicago"
+      },
+      {
+       "duracao_min": 130,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "NGO",
+     "ida": "2027-01-01",
+     "volta": "2027-01-21",
+     "preco": 14409,
+     "cia": "United and ANA",
+     "paradas": 2,
+     "duracao_min": 1990,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDEoAmoFEgNTQU9yBRIDTkdPGhwSCjIwMjctMDEtMjEoAmoFEgNOR09yBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 7715,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 325,
+       "aeroporto": "Chicago O'Hare International Airport",
+       "cidade": "Chicago"
+      },
+      {
+       "duracao_min": 130,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-04",
+     "volta": "2027-01-14",
+     "preco": 15041,
+     "cia": "American and Jetstar",
+     "paradas": 2,
+     "duracao_min": 2160,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMDQoAmoFEgNTQU9yBRIDT0tBGhwSCjIwMjctMDEtMTQoAmoFEgNPS0FyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "escalas": [
+      {
+       "duracao_min": 305,
+       "aeroporto": "Dallas Fort Worth International Airport",
+       "cidade": "Dallas"
+      },
+      {
+       "duracao_min": 210,
+       "aeroporto": "Narita International Airport",
+       "cidade": "Tokyo"
+      }
+     ],
+     "paises_escala": [
+      "US",
+      "JP"
+     ],
+     "exige_visto": [
+      "US"
+     ],
+     "escalas_sem_pais": [],
+     "escala_longa": null
+    },
+    {
+     "origem": "SAO",
+     "destino": "OKA",
+     "ida": "2027-01-19",
+     "volta": "2027-01-29",
+     "preco": 15090,
+     "cia": null,
+     "paradas": null,
+     "duracao_min": null,
+     "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDUFZHGhwSCjIwMjctMDEtMjkoAmoFEgNQVkdyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA",
+     "promo": false,
+     "motivo": null,
+     "mediana": 8082.5,
+     "sonda": false,
+     "stopover": {
+      "preco": 15090,
+      "hub": "PVG",
+      "dias_no_hub": 3,
+      "roteiro": "SAO → PVG (3d) → OKA → PVG → SAO",
+      "pernas": [
+       {
+        "trecho": "SAO-PVG",
+        "ida": "2027-01-19",
+        "volta": "2027-01-29",
+        "preco": 11869,
+        "cia": "American",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMTkoAmoFEgNTQU9yBRIDUFZHGhwSCjIwMjctMDEtMjkoAmoFEgNQVkdyBRIDU0FPQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       },
+       {
+        "trecho": "PVG-OKA",
+        "ida": "2027-01-22",
+        "volta": "2027-01-26",
+        "preco": 3221,
+        "cia": "Cathay Pacific and Hong Kong Express",
+        "url": "https://www.google.com/travel/flights/search?tfs=GhwSCjIwMjctMDEtMjIoAmoFEgNQVkdyBRIDT0tBGhwSCjIwMjctMDEtMjYoAmoFEgNPS0FyBRIDUFZHQgEBSAGYAQE=&hl=&curr=BRL&tfu=EgQIABABIgA"
+       }
+      ],
+      "base_preco": 8402,
+      "dois_bilhetes": true
+     }
+    }
+   ]
+  }
+ ]
+}
